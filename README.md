@@ -3,7 +3,7 @@
 <h1 align="center">Welcome to my Github Profile👋, I'm Anna Carvalho</h1>
 <h3 align="center">Data Science and Artificial Intelligence student from Brasil</h3>
 
-- 🤖 I’m currently working on **a EBAC online course: making an Tiktok clone!**
+- 🤖 I’m currently working on **Eyetracking Project!**
 
 - 🌱 I’m currently a second year student in UFPB **Universidade Federal da Paraiba**
 
